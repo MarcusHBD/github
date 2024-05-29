@@ -1,8 +1,9 @@
-git init - inicilizar o GIT
-git config user.name - Configurar o projeto local
+git init - inicilizar o repositório
+git config user.name - define o nome de usuário
 git config --global user.name - Configurar o projeto global
-git config user.email - configurar o projeto com email
+git config user.email - define email
 git status - Verificar o status do arquivo criado.
 git add . - Adicionar as alterações do arquivo ao repositório
 git commit -m  - "Digite a descrição do seu commit"
 git log - Verificar o log
+git branch - mudar de branch
