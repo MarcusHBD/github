@@ -7,3 +7,7 @@ git add . - Adicionar as alterações do arquivo ao repositório
 git commit -m  - "Digite a descrição do seu commit"
 git log - Verificar o log
 git branch - mudar de branch
+Novos comandos.
+git branch (verifica quais branchs existem e cria uma nova branch com o nome informado com -d deleta)
+git checkout (troca de branch e com -b cria e troca de branch)
+git switch 
