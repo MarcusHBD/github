@@ -1,0 +1,20 @@
+def mostrar_idade():
+  print("Digite seu nome completo: ")
+  nome = input()
+  print("Digite o ano de nascimento: ")
+  ano = int(input())
+
+  try:
+    if(ano >= 1922 and ano <= 2021):
+       idade = 2022 - ano
+       print(" Seu nome completo:" + str(nome))
+       print("Sua idade é: " + str(idade))
+    
+    else:
+      ano < 1922 and ano > 2021 
+      print("Digite o ano maior que 1922 e menor que 2022")
+
+  except:
+      print("Você precisa digitar um ano valido")
+
+mostrar_idade()
