@@ -11,3 +11,6 @@ git branch (verifica quais branchs existem e cria uma nova branch com o nome inf
 git checkout (troca de branch e com -b cria e troca de branch)
 git switch (troca de branch e com -s cria e troca de branch)
 git merge (mescla as informações de branch para outra)
+
+git pull origin main --allow-unrelated-histories
+git push -u origin main
