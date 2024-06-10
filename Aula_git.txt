@@ -1,1 +1,1 @@
-Aula de git
+Frase escrita antes do merge
